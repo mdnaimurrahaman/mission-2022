@@ -1,0 +1,152 @@
+/* font */
+
+ body{
+    margin: 0%;
+    /* background: #E5E5E5; */
+    font-family: 'Poppins', sans-serif;
+ }
+
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Yeseva+One&display=swap');
+
+ h1.side-border{
+    font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+    line-height: 80px;
+    border-left: 5px solid #FF5959;
+    padding: 0px 0px 0px 10px;
+    border-radius: 5px;
+ }
+
+.text-color{
+     color: #FFAD5A;
+}
+
+.container-flex{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.top-container{
+    width: 50%;
+    margin-left: 5%;
+    justify-content: center;
+}
+
+.top-header img{
+    width: 90%;
+}
+
+.btn-hero{
+    background: #FF5959;
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #ffff;
+}
+
+#services{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    text-align: center;
+}
+
+.all-box{
+    width: 85%;
+    margin: auto;
+}
+
+.all-box img{
+    width: 40%;
+}
+
+
+.box{
+    padding:45px 45px;
+    margin-right: 35px;
+    border-radius: 25px;
+    /* background: rgb(246, 246, 247); */
+    /* box-shadow: 0 5px 15px rgb(221, 218, 218); */
+}
+
+.box:last-child{
+    margin-right: 0px;
+}
+
+#box-1{
+    background: #4F9DA61A;
+}
+#box-2{
+    background: #FF59591A;
+
+}
+#box-3{
+    background: #FFF4D6;
+}
+
+.top-container img{
+    width:75%;
+}
+
+h2{
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 62px
+}
+
+.contact-info{
+    text-align: center;
+}
+
+form{
+    margin-top: auto;
+    width: 50%;
+    background: #FF59591A;
+    /* background: #4F9DA61A; */
+
+    padding: 50px 0;
+    display:inline-block;
+    border-radius: 25px;
+}
+
+form h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.control{
+    width: 80%;
+    padding: 10px;
+    margin-top: 20px;
+    outline: none;
+    border:none;
+    border-bottom: 1px solid #333;
+    font-size: 18px;
+    background-color:transparent;
+
+}
+
+.send-btn{
+    background-color: #FF5959;
+    color: #fff;
+    font-size: 20px;
+    border-bottom:0;
+}
+
+.Contact-side{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.footer-side {
+    text-align: center;
+    background-color: rgb(17, 10, 10);
+    color: #ffff;
+    height: 100%;
+    padding: 40px;
+}
+.text-style{
+    font-family:'Yeseva One', cursive;
+}
